@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"title": "Provides functions for deriving a pool address from the factory, tokens, and the fee",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/libraries/PoolAddress.sol": "PoolAddress"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/libraries/PoolAddress.sol": {
+			"keccak256": "0x2f505aa874bc40e40c43f4023f51dab425eaa2e009e6142dd48e71ec06874d55",
+			"license": "GPL-2.0-or-later",
+			"urls": [
+				"bzz-raw://4bfcaeaa8fa23e8d55f94e86005430874dc41ffdc391dcff37272777f5464262",
+				"dweb:/ipfs/QmP6n1qNBXTztUABnrkNX7w8hZJ648N77TpczaGN6DtsAg"
+			]
+		}
+	},
+	"version": 1
+}
